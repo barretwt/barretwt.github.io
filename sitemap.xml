@@ -2,18 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://barretwt.github.io/tags/emacs/</loc>
+    <lastmod>2019-08-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://barretwt.github.io/tags/howto/</loc>
+    <lastmod>2019-08-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://barretwt.github.io/tags/hugo/</loc>
+    <lastmod>2019-08-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://barretwt.github.io/notes/</loc>
+    <lastmod>2019-08-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://barretwt.github.io/</loc>
+    <lastmod>2019-08-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://barretwt.github.io/tags/</loc>
+    <lastmod>2019-08-02T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://barretwt.github.io/notes/test/</loc>
+    <lastmod>2019-08-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://barretwt.github.io/posts/test/</loc>
   </url><url>
     <loc>https://barretwt.github.io/categories/</loc>
   </url><url>
-    <loc>https://barretwt.github.io/notes/</loc>
-  </url><url>
     <loc>https://barretwt.github.io/posts/</loc>
-  </url><url>
-    <loc>https://barretwt.github.io/</loc>
-  </url><url>
-    <loc>https://barretwt.github.io/tags/</loc>
   </url>
 </urlset>
